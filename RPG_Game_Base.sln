@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG_Game_Base", "RPG_Game_Base\RPG_Game_Base.csproj", "{3BA57F03-AF6A-4CEF-BB5F-6564F5D179F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA57F03-AF6A-4CEF-BB5F-6564F5D179F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA57F03-AF6A-4CEF-BB5F-6564F5D179F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA57F03-AF6A-4CEF-BB5F-6564F5D179F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA57F03-AF6A-4CEF-BB5F-6564F5D179F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
