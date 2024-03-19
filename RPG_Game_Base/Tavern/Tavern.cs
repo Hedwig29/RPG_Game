@@ -28,7 +28,7 @@ namespace RPG_Game_Base.Tavern
                         bar.BarOptions(characterClass);
                         break;
                     case 2:
-                        Console.WriteLine("Do zobaczenia!");
+                        Console.WriteLine("See you!");
                         return;
 
                     default:
